@@ -5,4 +5,4 @@
 - [Kotlin](https://developer.android.com/kotlin) (Though didn't write a single line of kotlin code here)
 
 ## Preview
-<img src="./sample.png" width="360" height="640" align="center">
+<p align="center"> <img src="./sample.png" width="360" height="640"> </p>
