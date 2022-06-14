@@ -10,8 +10,5 @@
 - [Android Studio](https://developer.android.com/studio)
 - [Kotlin](https://developer.android.com/kotlin) (Though didn't write a single line of kotlin code here)
 
-## Demonstration
-![](sample.png)
-
-<h1 align="center" style="color: green">Thanks</h1>
-
+## Preview
+<img src="./sample.png" width="360" height="640">
